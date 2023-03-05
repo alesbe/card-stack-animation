@@ -1,6 +1,6 @@
 # Card stack animation 🃏
 ![card_compressed](https://user-images.githubusercontent.com/30263316/222968086-3f116b3b-b5b9-414e-b2cc-baf46847354a.gif)
-# [Try online!](google.com)
+# [Try online!](https://alesbe.github.io/card-stack-animaiton/)
 
 ## Tools used 🛠️
 - HTML
